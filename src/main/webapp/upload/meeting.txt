@@ -1,0 +1,40 @@
+article 35
+likelihood, severity
+
+significant effect for individual
+daniel solove privacy taxonomy
+how dpv can be extended to accomodate 
+how to extend 
+how to present 
+competency questions (noi)
+do reseatch canvas
+
+How to model CI that doesnt involve pp or tos
+figure out what attributes of vocab/ontology are implicated by the change
+relate them to the privacy taxonomy
+
+Question
+How dpv can be extended to accomodate questions of contextual integrity. 
+Some objectives
+Find existing attempts at modelling contextual integrity.
+Identify the current challenges associated with modelling CI using the current iteration of DPV.
+Identify key concepts needed to model contextual integrity.
+Map these concepts onto DPV.
+Measure how well the new vocabulary captures CI.
+
+Establish additional properties and classes need by DPV.
+
+Methodology
+Review literature to
+    Find existing attempts at modelling CI
+    Identify the current challenges associated with modelling CI using the current iteration of DPV.
+    Identify the key concepts needed to model contextual integrity
+Create additional properties and classes to be added to DPV
+Design a list of CI scenarios
+Model these scenarios using the vocabulary.
+
+
+identify a set of interesting contextual integrity scenarios
+use dpv to model them
+See how well users can understand a change 
+

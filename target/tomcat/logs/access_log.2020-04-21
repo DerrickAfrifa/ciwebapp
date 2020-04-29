@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:19:38:54 +0100] "GET / HTTP/1.1" 200 905 http-bio-8080-exec-1 2938
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:19:38:54 +0100] "GET / HTTP/1.1" 200 905 http-bio-8080-exec-2 2938
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:19:39:01 +0100] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 192
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:19:46:35 +0100] "POST /ontology.jsp HTTP/1.1" 200 1163 http-bio-8080-exec-6 671
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:19:46:44 +0100] "GET /validate.jsp?filePath=%2Fhome%2Fafrifad%2Fworkspace%2Fcontextual-integrity-app%2Fsrc%2Fmain%2Fwebapp%2Fupload%2Fv1.ttl HTTP/1.1" 200 4421 http-bio-8080-exec-8 5624
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:19:47:09 +0100] "GET /query.jsp?filePath=%2Fhome%2Fafrifad%2Fworkspace%2Fcontextual-integrity-app%2Fsrc%2Fmain%2Fwebapp%2Fupload%2Fv1.ttl HTTP/1.1" 200 1491 http-bio-8080-exec-9 67
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:19:47:14 +0100] "GET /queryDisplay?filePath=%2Fhome%2Fafrifad%2Fworkspace%2Fcontextual-integrity-app%2Fsrc%2Fmain%2Fwebapp%2Fupload%2Fv1.ttl&queryType=dsrc HTTP/1.1" 200 1283 http-bio-8080-exec-2 772
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:19:53:38 +0100] "GET /validate.jsp?filePath=%2Fhome%2Fafrifad%2Fworkspace%2Fcontextual-integrity-app%2Fsrc%2Fmain%2Fwebapp%2Fupload%2Fv1.ttl HTTP/1.1" 200 4421 http-bio-8080-exec-3 412
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:19:55:23 +0100] "GET /query.jsp?filePath=%2Fhome%2Fafrifad%2Fworkspace%2Fcontextual-integrity-app%2Fsrc%2Fmain%2Fwebapp%2Fupload%2Fv1.ttl HTTP/1.1" 200 1491 http-bio-8080-exec-8 5
+0:0:0:0:0:0:0:1 - - [21/Apr/2020:19:55:26 +0100] "GET /queryDisplay?filePath=%2Fhome%2Fafrifad%2Fworkspace%2Fcontextual-integrity-app%2Fsrc%2Fmain%2Fwebapp%2Fupload%2Fv1.ttl&queryType=vag HTTP/1.1" 200 3491 http-bio-8080-exec-9 106

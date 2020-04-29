@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [22/Apr/2020:16:37:16 +0100] "GET / HTTP/1.1" 200 905 http-bio-8080-exec-1 2179
+0:0:0:0:0:0:0:1 - - [22/Apr/2020:16:37:16 +0100] "GET / HTTP/1.1" 200 905 http-bio-8080-exec-2 1303
+0:0:0:0:0:0:0:1 - - [22/Apr/2020:16:39:09 +0100] "POST /ontology.jsp HTTP/1.1" 200 1163 http-bio-8080-exec-5 782
+0:0:0:0:0:0:0:1 - - [22/Apr/2020:16:39:20 +0100] "GET /validate.jsp?filePath=%2Fhome%2Fafrifad%2Fworkspace%2Fcontextual-integrity-app%2Fsrc%2Fmain%2Fwebapp%2Fupload%2Fv1.ttl HTTP/1.1" 200 3355 http-bio-8080-exec-7 6971
